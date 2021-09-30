@@ -7,8 +7,9 @@
 
 ## Use your OpenStreetMap account to login on tasks.hotosm.org  
 
-3. Once you have an account, go to **tasks.hotosm.org/project/6128**
+3. Once you have an account, go to **https://tasks.hotosm.org/explore?difficulty=BEGINNER**
 4. If necessary, click on the **Login** button at the top-right of the page and login with your **OpenStreetMap** credentials.
+5. Select a project! Youcan select any project that catched your attention. Choose somewhere close to home, if you can, or choose somewhere you've never been!
 
 ## Mapping buildings
 5. Read the **Instructions** section of the Project Page (we'll do this together)
